@@ -1,8 +1,21 @@
-#pokeList{
+#pokeBox{
     width: 500px;
     height: 500px;
     border: 1px solid black;
     margin: 20px;
     padding: 20px;
     overflow: auto;
+}
+
+#CATCH{
+    display: block;
+}
+
+#pokeBox, #searchPoke, #start{
+    display: none;
+}
+
+img{
+    width: 100px;
+    width: 100px;
 }
